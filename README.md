@@ -1,3 +1,5 @@
 # Network Science for Medical Equipment Management
 ##### Este proyecto consiste en generar un método visual de registro de activos, a partir de una base de datos tabulada que contendrá equipamiento médico el cual podemos encontrar en un hospital, asignando diferentes etiquetas para cada uno. Generando un sistema de red no dirigida mediante Redes de nodos, a través de Python. Esta nos permitirá identificar la cantidad de Equipos por salas, generar trayectorias siemples o múltiples, visualización de salas con equipos que requieren de mantenciones próximas, de igual manera salas que contengan equipamiento crítico y aquellas que contengan equipos cuya vida útil está cercana a terminar. 
 ##### Esta solución permitirá facilitar la búsqueda de equipamiento médico evitando así extravíos y robos, mejora la gestión de inventarios, evita retraso de mantenciones y aumenta la disponibilidad del equipamiento médico.
+
+[![dibujo-pagina-proyecto.jpg](https://i.postimg.cc/L8nD22y0/dibujo-pagina-proyecto.jpg)](https://postimg.cc/nXfB1bfv)
